@@ -227,7 +227,7 @@ Due to dashboard visualization limitations, complete SQL queries and detailed st
 
 ###CAGR domestic VS foreign
 
-![Cagr domestic VS foreign](/screenshot/Cagr_domestic_VS_foreign.JPG)
+![CAGR domestic VS foreign](/screenshot/CAGR_domestic_VS_foreign.JPG)
 
 # Project Structure
 
