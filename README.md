@@ -1,8 +1,17 @@
-# Telangana Tourism Analytics Dashboard
+# Telangana Tourism Analytics
+SQL + Power BI Project
 
 ## Project Overview
 
 This project analyzes Telangana tourism data (2016–2019) using MySQL and Power BI to identify tourism trends, visitor growth patterns, district-level performance, and forecasting insights.
+
+
+---
+## Live Dashboard
+
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGZjN2Y2OTUtZjE3Zi00YzdjLTg2ODctYzEwMDBlMDU4NmJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
 
 The project covers the complete analytics workflow including:
 
@@ -200,10 +209,7 @@ The Power BI dashboard includes:
 * Tourist-to-Population Footfall Ratio
 
 
----
-## Live Dashboard
 
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGZjN2Y2OTUtZjE3Zi00YzdjLTg2ODctYzEwMDBlMDU4NmJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ------
 
