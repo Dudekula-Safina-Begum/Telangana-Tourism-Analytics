@@ -284,6 +284,6 @@ using MySQL and Power BI.
 
 Connect With Me
 
-LinkedIn: [Add Your LinkedIn Profile Link Here]
+LinkedIn: [www.linkedin.com/in/dudekula-safinabegum]
 
 If you found this project interesting, feel free to explore the repository and connect with me.
